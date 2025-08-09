@@ -368,11 +368,11 @@
 
 /*
 * ===========================================================
-* PAGINATION - LOAD MORE - THEMEKIT
+* PAGINATION - LOAD MORE - safalkit
 * ===========================================================
 * This script manage the pagination and load more system of the grid list and masonry list container components.
 * 
-* Copyright (c) Federico Schiocchet - schiocco.com - Themekit
+* Copyright (c) Federico Schiocchet - schiocco.com - safalkit
 */
 
 (function ($) {

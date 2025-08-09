@@ -1,10 +1,10 @@
 /*
 * ===========================================================
-* TABS AND ACCORDION - THEMEKIT
+* TABS AND ACCORDION - safalkit
 * ===========================================================
 * This script manage the tabs, collpse and accordion container components.
 * 
-* Copyright (c) Federico Schiocchet - schiocco.com - Themekit
+* Copyright (c) Federico Schiocchet - schiocco.com - safalkit
 */
 
 "use strict";

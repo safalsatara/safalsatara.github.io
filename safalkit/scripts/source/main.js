@@ -1,6 +1,6 @@
 /*
  * ===========================================================
- * MAIN SCRIPT- THEMEKIT
+ * MAIN SCRIPT- safalkit
  * ===========================================================
  * This script manage all the js functions and the 3r party plugins.
  *
@@ -9,7 +9,7 @@
  * Manage all the animations on page scroll, on click, on hover
  * Manage the timeline animations
  *
- * Copyright (c) Federico Schiocchet - schiocco.com - Themekit
+ * Copyright (c) Federico Schiocchet - schiocco.com - safalkit
 */
 
 "use strict";

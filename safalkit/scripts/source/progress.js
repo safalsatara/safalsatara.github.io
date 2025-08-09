@@ -136,11 +136,11 @@
 
 /*
 * ===========================================================
-* PROGRESS BAR - CIRCLE PROGRESS BAR - COUNTER - COUNTDOWN - THEMEKIT
+* PROGRESS BAR - CIRCLE PROGRESS BAR - COUNTER - COUNTDOWN - safalkit
 * ===========================================================
 * This script manage the following component: progress bar, circle progress bar, counter and countdown.
 * 
-* Copyright (c) Federico Schiocchet - schiocco.com - Themekit
+* Copyright (c) Federico Schiocchet - schiocco.com - safalkit
 */
 
 (function ($) {

@@ -180,12 +180,12 @@
 }(jQuery);
 /*
 * ===========================================================
-* SOCIAL STREAM - THEMEKIT
+* SOCIAL STREAM - safalkit
 * ===========================================================
 * Social stream of Facebook and Twitter, this script have 4 display types: simple list, scroll box container, slider and carousel
 * Documentation: www.framework-y.com/components/social.html
 * 
-* Schiocco - Copyright (c) Federico Schiocchet - schiocco.com - Themekit
+* Schiocco - Copyright (c) Federico Schiocchet - schiocco.com - safalkit
 */
 
 var facebook_token = "";
